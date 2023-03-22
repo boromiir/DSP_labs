@@ -1,0 +1,14 @@
+# Eclipse
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+
+# VS Code
+.venv
+
+# misc
+*.pdf
+*.docx
+*.xlsx
